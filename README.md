@@ -6,14 +6,12 @@ This project implements a deep learning model for SMS spam classification using 
 
 The dataset used in this project is the "Ham vs Spam SMS Classification Dataset." It contains SMS messages labeled as either 'ham' (non-spam) or 'spam'. The dataset is sourced from Kaggle.
 
-Dataset Link: [Ham vs Spam SMS Classification Dataset on Kaggle](https://www.kaggle.com/datasets/hubashaikh/ham-vs-spam-sms-classification-dataset/data)
+- **Dataset Link**:[Ham vs Spam SMS Classification Dataset on Kaggle](https://www.kaggle.com/datasets/hubashaikh/ham-vs-spam-sms-classification-dataset/data)
 
-Access: The dataset is loaded using KaggleHub for easy access:
-
-```python
-import kagglehub
-data_path = kagglehub.dataset_download('hubashaikh/ham-vs-spam-sms-classification-dataset')
-
+- **Access**: The dataset is loaded using KaggleHub for easy access:  
+  ```python
+  import kagglehub
+  data_path =  kagglehub.dataset_download('hubashaikh/ham-vs-spam-sms-classification-dataset')
 
 
 ---
