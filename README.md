@@ -18,9 +18,6 @@ data_path = kagglehub.dataset_download('hubashaikh/ham-vs-spam-sms-classificatio
 
 ---
 
-### 3. Model Components
-
-```markdown
 ## Model Components
 
 ### 1. Transformer Model
